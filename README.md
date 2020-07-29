@@ -1,7 +1,7 @@
 # Serverless Tapir
 
-This repo shows how to run the [Tapir](https://github.com/softwaremill/tapir) http application with the AWS Lambda and Http API. The deployment is done using the
-[AWS CDK](https://github.com/aws/aws-cdk) framework in fully automated way.
+This repo shows how to run the [Tapir](https://github.com/softwaremill/tapir) http application with the AWS Lambda and Http API. 
+The deployment is done using the [AWS CDK](https://github.com/aws/aws-cdk) framework in a fully automated way.
 
 This repo accompanies the article at https://melgenek.github.io/serverless-tapir.
 
